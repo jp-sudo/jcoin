@@ -1,2 +1,2 @@
-# jciin
+# jcoin
 Blockchain poc
